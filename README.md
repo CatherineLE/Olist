@@ -3,8 +3,8 @@ Clustering on hight dimensional data
 
 Clustering on Olist databases  to discover new customer's groups based on their behavior and their personal data.
 
-Notebook 1 : data processing and EDA Exploratory Data Analysis
-Notebook 2 : Modeling and final results
+Notebook 1 : data processing and EDA Exploratory Data Analysis\
+Notebook 2 : Modeling and final results\
 Presentation : The main steps and main results to show  (in french so here below in English for the main idea)
 
 Notebook 1
