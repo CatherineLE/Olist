@@ -15,7 +15,7 @@ Step 3: Correlation Analysis to drop some more features\
 Step 4: Data cleaning by dropping duplicated rows \
 Step 5: EDA - Exploratory Data Analysis \
 Step 6: Missing Values Imputation\
-Step 7: Normalization and Encoding\
+Step 7: Normalization and Encoding
 
 
 Notebook 2
@@ -25,6 +25,6 @@ Step 2: Final data frame with the timestamp column as index to create different 
 Step 3: K means only for the baseline\
 Step 4: K means and AgglomerativeClustering \
 Step 5: Penalized Log regression l1  for multi labels  to highlight variables importance\
-Step 6: Interpretation\
+Step 6: Interpretation
 
 Best model : K - means followed by AgglomerativeClustering (see the scoring and the final clusters distribution)
